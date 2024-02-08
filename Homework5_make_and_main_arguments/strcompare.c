@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include "mystrings.h"
+
+int main(int argc, char **argv)
+{
+    printf("The comparisons of the strings are:\n");
+    for(int i = 1; i <= argc; i+=2)
+    {
+        printf("%s and %s -> %d\n", argv[i], argv[i+1], strcompare(argv[i], argv[i+1]));
+    }
+    return 0;
+}

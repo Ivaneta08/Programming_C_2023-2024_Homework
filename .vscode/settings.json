@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "mystrings.h": "c",
+        "safeint.h": "c",
+        "quadraticroots.h": "c"
+    }
+}

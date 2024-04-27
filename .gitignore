@@ -1,1 +1,6 @@
 *.exe
+*.o
+*.json
+Makefile_donors.txt
+Makefile_text.txt
+test.c

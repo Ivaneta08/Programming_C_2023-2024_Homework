@@ -3,4 +3,5 @@
 *.json
 Makefile_donors.txt
 Makefile_text.txt
+Makefile.txt
 test.c

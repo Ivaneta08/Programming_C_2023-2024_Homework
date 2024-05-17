@@ -5,6 +5,7 @@
         "stdio.h": "c",
         "mystrings.h": "c",
         "safeint.h": "c",
-        "quadraticroots.h": "c"
+        "quadraticroots.h": "c",
+        "dynarr.h": "c"
     }
 }

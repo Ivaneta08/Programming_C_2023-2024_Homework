@@ -6,6 +6,8 @@
         "mystrings.h": "c",
         "safeint.h": "c",
         "quadraticroots.h": "c",
-        "dynarr.h": "c"
+        "dynarr.h": "c",
+        "stdlib.h": "c",
+        "fileutil.h": "c"
     }
 }
